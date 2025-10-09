@@ -16,18 +16,53 @@
 
 ## 🎯 À Propos de Moi
 
-```javascript
-const imane = {
-    role: "Cloud & DevOps Engineer",
-    education: "Ingénieure Cloud & DevOps",
-    location: "France 🇫🇷",
-    passions: ["Automatisation", "Architecture Cloud", "CI/CD", "Containerisation"],
-    currentFocus: "Microservices & Applications Cloud-Native",
-    philosophy: "Transformer le code en infrastructure intelligente 🚀"
-};
-```
+<div align="center">
 
-> 💡 **Ma Mission** : Créer des pipelines robustes, automatiser l'infrastructure et optimiser les déploiements pour des applications scalables et résilientes.
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+### 💫 Cloud & DevOps Engineer | Architecte d'Infrastructure Moderne
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"><br>
+<strong>🚀 Automatisation</strong><br>
+<sub>Pipelines CI/CD robustes</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
+<strong>☁️ Cloud Native</strong><br>
+<sub>Architecture scalable</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+<strong>🐳 Containerisation</strong><br>
+<sub>Docker & Kubernetes</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<strong>⚡ IaC</strong><br>
+<sub>Terraform & Ansible</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🎓 Ingénieure Cloud & DevOps | 📍 France 🇫🇷
+
+**💡 Ma Mission :** *Créer des pipelines robustes, automatiser l'infrastructure et optimiser les déploiements pour des applications scalables et résilientes.*
+
+🔭 **Focus actuel :** Microservices & Applications Cloud-Native  
+🌱 **Passion :** Transformer le code en infrastructure intelligente
+
+</div>
 
 ---
 
@@ -90,7 +125,6 @@ const imane = {
 </div>
 
 ---
-
 
 ## 🚀 Projets & Contributions
 
