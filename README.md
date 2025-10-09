@@ -1,150 +1,153 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://github.com/OUimane/OUimane/blob/main/assets/wave.gif" width="30px" height="30px">
-  <h1>Welcome to my GitHub Profile!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=00FFFF&center=true&width=435&lines=I'm+Imane+OUCHEN;Cloud+%26+DevOps+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
-  <br>
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+# 👋 Bonjour, je suis Imane OUCHEN
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Cloud+%26+DevOps+Engineer;Automatisation+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Passionnée+par+l'innovation+technologique" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imane-ouchen-2a5317286)
+[![Email](https://img.shields.io/badge/Email-Me_Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaneouchen16@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=OUimane&color=00D9FF&style=for-the-badge)](https://github.com/OUimane)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 À Propos de Moi
 
-- 🎓 **Cloud & DevOps Engineering Student** 
-- 💡 Building solutions that bridge development and operations with **CI/CD pipelines** and **Infrastructure as Code**
-- 🔭 Working on projects involving **microservices**, **containerization**, and **cloud-native applications**
-- ⚡ Fun fact: I love solving complex problems and automating routine tasks!
+```javascript
+const imane = {
+    role: "Cloud & DevOps Engineer",
+    education: "Ingénieure Cloud & DevOps",
+    location: "France 🇫🇷",
+    passions: ["Automatisation", "Architecture Cloud", "CI/CD", "Containerisation"],
+    currentFocus: "Microservices & Applications Cloud-Native",
+    philosophy: "Transformer le code en infrastructure intelligente 🚀"
+};
+```
 
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>📋 Languages</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/></a>
-</p>
-</details>
-
-<details open>
-<summary><b>🌐 Frontend Development</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-</p>
-</details>
-
-<details open>
-<summary><b>🔧 Backend Development</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-</p>
-</details>
-
-<details open>
-<summary><b>🛠 DevOps</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/></a>
-</p>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud Computing</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack"/></a>
-</p>
-</details>
-
-<details>
-<summary><b>🗃 Databases & Big Data</b></summary>
-<br>
-
-<p align="left">
-  <!-- SQL Databases -->
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  
-  <!-- NoSQL Databases -->
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-  
-  <!-- Big Data -->
-  <a href="#"><img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/></a>
-</p>
-</details> 
-
-<details open>
-<summary><b>🔨 Tools & Software</b></summary>
-<br>
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Packet_Tracer-1E5A96?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
-</p>
-</details>
+> 💡 **Ma Mission** : Créer des pipelines robustes, automatiser l'infrastructure et optimiser les déploiements pour des applications scalables et résilientes.
 
 ---
 
+## 🔥 Expertise Technique
 
-## 📫 Connect With Me
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
+
+### 🐳 **Containerisation & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
+
+### 🔧 **IaC & Configuration Management**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 **CI/CD & Version Control**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 **Monitoring & Quality**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+### 💻 **Développement**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Statistiques GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/imane-ouchen-2a5317286">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:imaneouchen16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/OUimane">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OUimane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OUimane&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUimane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+## 🗄️ Base de Données & Big Data
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
 </div>
 
 ---
 
 
+## 🚀 Projets & Contributions
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OUimane&color=blueviolet&style=flat-square" alt="Profile Views">
-  <h4>Thank you for visiting my profile! 😊</h4>
-  
-  ![Snake animation](https://github.com/OUimane/OUimane/blob/output/github-contribution-grid-snake.svg)
+
+| 🎯 Domaine | 📝 Description |
+|-----------|---------------|
+| **Microservices** | Architecture distribuée avec Docker & Kubernetes |
+| **CI/CD** | Pipelines automatisés avec Jenkins & GitLab CI |
+| **IaC** | Provisioning d'infrastructure avec Terraform |
+| **Monitoring** | Dashboards Grafana pour observabilité complète |
+| **Automation** | Scripts d'automatisation avec Ansible & Python |
+
+</div>
+
+---
+
+## 💬 Citation Favorite
+
+<div align="center">
+
+> *"La meilleure façon de prédire l'avenir est de l'automatiser."* 🤖
+
+</div>
+
+---
+
+## 🤝 Collaborons Ensemble !
+
+<div align="center">
+
+Je suis toujours ouverte à de nouveaux défis et collaborations dans le domaine du Cloud et DevOps !
+
+### 📫 Comment me joindre ?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imane-ouchen-2a5317286)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaneouchen16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OUimane)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⭐ Merci de votre visite ! N'hésitez pas à explorer mes repositories ! ⭐
+
+![Snake animation](https://github.com/OUimane/OUimane/blob/output/github-contribution-grid-snake.svg)
+
 </div>
