@@ -4,14 +4,12 @@
   <h1>Welcome to my GitHub Profile!</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=00FFFF&center=true&width=435&lines=I'm+Imane+OUCHEN;Cloud+%26+DevOps+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
   <br>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
 ---
 
 ## 🚀 About Me
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🎓 **Cloud & DevOps Engineering Student** 
 - 💡 Building solutions that bridge development and operations with **CI/CD pipelines** and **Infrastructure as Code**
